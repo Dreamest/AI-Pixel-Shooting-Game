@@ -1,0 +1,50 @@
+﻿  Bullet.cpp
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\Player.h(18,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\Player.h(19,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\Player.h(20,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CompareNodes.cpp
+  Granade.cpp
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\Player.h(18,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\Player.h(19,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\Player.h(20,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\Player.h(18,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\Player.h(19,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\Player.h(20,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\main.cpp(34,31): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\main.cpp(376,9): warning C4101: 'sz': unreferenced local variable
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\main.cpp(376,17): warning C4101: 'yy': unreferenced local variable
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\main.cpp(376,13): warning C4101: 'xx': unreferenced local variable
+  Node.cpp
+  Player.cpp
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\Player.h(18,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\Player.h(19,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\First\Player.h(20,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Point2D.cpp
+  Room.cpp
+  Generating Code...
+Bullet.obj : error LNK2019: unresolved external symbol __imp_glBegin referenced in function "public: void __cdecl Bullet::showMe(void)" (?showMe@Bullet@@QEAAXXZ)
+main.obj : error LNK2001: unresolved external symbol __imp_glBegin
+Bullet.obj : error LNK2019: unresolved external symbol __imp_glColor3d referenced in function "public: void __cdecl Bullet::showMe(void)" (?showMe@Bullet@@QEAAXXZ)
+main.obj : error LNK2001: unresolved external symbol __imp_glColor3d
+Bullet.obj : error LNK2019: unresolved external symbol __imp_glEnd referenced in function "public: void __cdecl Bullet::showMe(void)" (?showMe@Bullet@@QEAAXXZ)
+main.obj : error LNK2001: unresolved external symbol __imp_glEnd
+Bullet.obj : error LNK2019: unresolved external symbol __imp_glVertex2d referenced in function "public: void __cdecl Bullet::showMe(void)" (?showMe@Bullet@@QEAAXXZ)
+main.obj : error LNK2001: unresolved external symbol __imp_glVertex2d
+main.obj : error LNK2019: unresolved external symbol __imp_glClear referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glClearColor referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glOrtho referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glutInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutInitDisplayMode referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutInitWindowPosition referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutInitWindowSize referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutMainLoop referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutCreateWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutPostRedisplay referenced in function "void __cdecl idle(void)" (?idle@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glutCreateMenu referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutAddMenuEntry referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutAttachMenu referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutDisplayFunc referenced in function "void __cdecl Menu(int)" (?Menu@@YAXH@Z)
+main.obj : error LNK2019: unresolved external symbol glutIdleFunc referenced in function main
+C:\Users\Dreamest\Desktop\Studies\Artificial Intelligence\Project\28.04\First\x64\Debug\First.exe : fatal error LNK1120: 20 unresolved externals

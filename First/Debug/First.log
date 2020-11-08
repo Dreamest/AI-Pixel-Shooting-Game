@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (First.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bullet.cpp
+  CompareNodes.cpp
+  Granade.cpp
+  main.cpp
+C:\Users\Dreamest\Desktop\28.04\First\First\main.cpp(33,31): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Node.cpp
+  Player.cpp
+  Point2D.cpp
+  Room.cpp
+  Generating Code...
+  First.vcxproj -> C:\Users\Dreamest\Desktop\28.04\First\Debug\AIProject.exe
