@@ -8,4 +8,4 @@ Each NPC starts with 100 HP and 10 bullets, as well as a variant to their gun, t
 
 The NPCs follow a decision tree to determine what action to take next, then follow the A* algorith in order to fulfil their task.
 
-![alt text](https://ibb.co/t3Wb2fy)
+![Decision Tree](https://i.ibb.co/Ybqtd9v/Whats-App-Image-2020-11-08-at-22-04-10.jpg)
